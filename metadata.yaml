@@ -1,0 +1,5 @@
+author: 静
+desc: 自主判断并保存/召回关于主人的跨会话长期记忆（群聊私聊共享）
+name: astrbot_plugin_long_memory
+repo: https://github.com/snlyj/astrbot_plugin_long_memory
+version: v1.4.0
